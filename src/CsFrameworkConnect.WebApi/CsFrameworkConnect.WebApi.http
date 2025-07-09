@@ -1,0 +1,6 @@
+@CsFrameworkConnect.WebApi_HostAddress = http://localhost:5247
+
+GET {{CsFrameworkConnect.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
